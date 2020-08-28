@@ -1,0 +1,114 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:31:28 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:34:13 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:34:43 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:35:53 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:43:26 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Aug 28 14:44:41 2020] ***
+compiled with version: 7.3.0 on 12 May 2020 20:20:41
+os: Linux-4.15.0-112-generic #113-Ubuntu SMP Thu Jul 9 23:41:39 UTC 2020
+nodename: buddy
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ephraimbuddy/Documents/projects/uwsgi_app
+writing pidfile to /tmp/my_pyramid_app.pid
+detected binary path: /home/ephraimbuddy/anaconda3/envs/uwsgenv/bin/uwsgi
+chdir() to /home/ephraimbuddy/Documents/projects/uwsgi_app
+your processes number limit is 29285
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Operation not permitted [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]

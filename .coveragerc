@@ -1,0 +1,3 @@
+[run]
+source = uwsgi_app
+omit = uwsgi_app/test*
