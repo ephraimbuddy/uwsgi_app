@@ -1,7 +1,7 @@
-# Running pyramid with 
+# Running pyramid with uwsgi
 A sample project to teach running python pyramid application using uwsgi.
 
-# Running the applicatiion
+# Follow these steps to run this sample project
 First you need to install some dependencies in your system
 
 `sudo apt install -y uwsgi-core uwsgi-plugin-python3`
